@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso de Fundamentos de IA para devs na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso de Fundamentos de IA para devs na plataforma da [DIO](https://dio.me), lecionado pelo professor [Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.Ai](https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -44,16 +44,17 @@ ChatGPT：
 | conteúdo |Faça um texto para ebook , com foco em fundamentos de React com Typescript e usando exemplos em código  {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
-Midjourney：
+Leonardo.Ai：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A...  --v 5.1 |
+| capa |  The shadow of the Hogwarts Castle in the dark night, and traces of blue magic, cartoon style|
+| agradecimentos |  Epic Faceless Hogwarts wizard doing wand magic|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.Ai
 
 ## 📚 Materiais
 
@@ -80,6 +81,3 @@ Midjourney：
 <br/><br/>
 <p>
 
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
